@@ -442,7 +442,7 @@ function GMGenie.Tickets.addLine(message)
     GMGenie.Tickets.showMessage();
 end
 
-function GMGenie.Tickets.delete()
+function GMGenie.Tickets.complete()
     SendChatMessage(".ticket complete " .. GMGenie.Tickets.currentTicket["ticketId"], "GUILD");
     GMGenie.Tickets.done = GMGenie.Tickets.done + 1;
     GMGenie_SavedVars.ticketsDone = GMGenie.Tickets.done;
