@@ -476,7 +476,7 @@
                 </Anchors>
                 <Scripts>
                     <OnClick>
-                        GMGenie.Tickets.delete();
+                        GMGenie.Tickets.complete();
                     </OnClick>
                 </Scripts>
             </Button>
