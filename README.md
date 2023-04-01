@@ -73,14 +73,3 @@ However, I would appreciate it if you could drop me a message if you post/publis
 You can drop me an e-mail at gmgenie [at] chocochaos [dot] com
 
 It's not a requirement to inform me, but I would appreciate it =)
-
-
-
-Changelog
--------
-
-### Version 0.9.0
-*   Duskhaven-side Ownership force-transferred to Haruka
-    - Added a Close button
-	-	.ticket close
-    - All previous functions stayed the same
