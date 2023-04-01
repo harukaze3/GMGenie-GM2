@@ -315,7 +315,7 @@ function GMGenie.Tickets.loadTicket(ticketId, num)
                 --GMGenie_Tickets_View_Ticket_Reading:Hide();
                 -- get ticket
                 SendChatMessage(".ticket viewid " .. ticketId, "GUILD");
-				GMGenie_Tickets_View_ResponseFrame_Frame_Text:SetText("\n\n");
+				GMGenie_Tickets_View_ResponseFrame_Frame_Text:SetText("Greetings!\n\n\n\nRegards,\n"..UnitName("Player").."\n\n---Duskhaven Staff---\nWebsite: www.duskhaven.servegame.com\nBug Tracker: https://github.com/Duskhaven/Bug-Reports/issues");
 				GMGenie_Tickets_View_ResponseFrame_Frame_Text:ClearFocus();
                 -- open spy
                 if GMGenie_SavedVars.useSpy then
