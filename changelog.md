@@ -9,4 +9,4 @@ Changelog
 *   Duskhaven-side Ownership force-transferred to Haruka
 *   Added a Close button
 	-	Runs the .ticket close <id> command
-	-	For the competetive: closing a ticket still adds a to your ticket counter
+	-	For the competetive: closing a ticket still adds to your ticket counter
