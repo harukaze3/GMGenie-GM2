@@ -113,7 +113,6 @@
                     </OnClick>
                 </Scripts>
             </Button>
-			<!-- Removing the Builder Button
             <Button name="$parent_Builder" inherits="GMGenie_Button" text="Builder">
                 <Size>
                     <AbsDimension x="90" y="18"/>
@@ -126,8 +125,7 @@
                         GMGenie.Spawns.toggle();
                     </OnClick>
                 </Scripts>
-            </Button>
-			-->
+		</Button>
         </Frames>
     </Button>
 </Ui>
