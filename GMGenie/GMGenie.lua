@@ -60,7 +60,7 @@ function GMGenie.onLoad()
     GMGenie.Tickets.onLoad();
 
     -- Please do not remove the copyright notice, it would be a violation of the gpl.
-    GMGenie.showGMMessage("GMGenie 0.8.0 by Chocochaos ((c) 2011-2014) and |cffbe5effHaruka!|cffffffff (2023).");
+    GMGenie.showGMMessage("GMGenie 0.9.1 by Chocochaos ((c) 2011-2014) and |cffbe5effHaruka!|cffffffff (2023).");
 end
 
 local frame = CreateFrame("FRAME");
